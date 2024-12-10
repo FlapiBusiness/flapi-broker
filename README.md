@@ -4,7 +4,7 @@
 
 - Nats (Broker message)
 - CI / CD (Github Actions)
-- DockerCompose (Development-Local)
+- Docker Compose (Development-Local)
 - Kubernetes (Development-Remote, Staging and Production)
 
 <br /><br /><br /><br />
