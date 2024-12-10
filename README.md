@@ -77,7 +77,7 @@ Pour plus de détails sur les conventions de commit, consultez : [Conventional C
 1. Clone the project repository using the following commands :
 
 ```bash
-git clone git@github.com:corentin35000/crypto-viz-broker.git
+git clone git@github.com:FlapiBusiness/flapi-broker.git
 ```
 
 2. Steps by Platform :
