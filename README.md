@@ -90,7 +90,7 @@ git clone git@github.com:FlapiBusiness/flapi-broker.git
 
 # macOS :
 1. Requirements : macOS Intel x86_64 or macOS Apple Silicon arm64
-2. Requirements (2) : macOS 11.0 (Big Sur)
+2. Requirements (2) : macOS 11.0 (Big Sur) +
 2. Download and Install Docker Desktop : https://docs.docker.com/desktop/install/mac-install/
 
 # Linux (Ubuntu / Debian) :
@@ -103,7 +103,7 @@ git clone git@github.com:FlapiBusiness/flapi-broker.git
 
 ## 🔄 Cycle Development
 
-1. macOS / Windows : Open Docker Desktop
+1. Open Docker Desktop
 2. Run command :
 ```bash
    # Start the development server on http://localhost:8222 (NATS HTTP monitoring)
